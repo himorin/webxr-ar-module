@@ -3,7 +3,7 @@ Shortname: webxr-ar-module
 Title: WebXR Augmented Reality Module - Level 1
 Group: immersivewebwg
 Status: FPWD
-Date: 2019-09-XX
+Date: 2019-10-07
 ED: https://immersive-web.github.io/webxr-ar-module/
 Repository: immersive-web/webxr-ar-module
 Level: 1
